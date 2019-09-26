@@ -13,3 +13,6 @@ to return to the basket.
 1 VR Lab:
 9/25/19
 Rumpelstiltskin!
+
+Lab 1 VR assignment, player needs to grab apples and put them into the crate. 
+Crate was installed from Unity Asset store. Apples were made by cubes in Unity.
