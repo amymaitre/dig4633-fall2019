@@ -17,6 +17,7 @@ I have experience with AR through Pokemon GO.
 To have a prompt that indicates to the player that they need to collect x amount of apples
 to return to the basket.
 
+<<<<<<< HEAD
 1 VR Lab:
 9/25/19
 Rumpelstiltskin!
@@ -24,3 +25,5 @@ Rumpelstiltskin!
 Lab 1 VR assignment, player needs to grab apples and put them into the crate. 
 Crate was installed from Unity Asset store. Apples were made by cubes in Unity.
 >>>>>>> 0355eaf9ba76a22c4b040ddbb36c43530a40d6f0
+=======
+>>>>>>> parent of ccb2d04... Lab 9/25/19 Attendance
